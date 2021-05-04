@@ -1,3 +1,13 @@
+## About
+Outlier-Detector is a python program that aims to detect frames from a video that seem out of place when compared to 
+the rest of the video.
+
+### Authors
+Tyson Steele
+
+### License
+This code is licensed using the GNU GPLv3 license.
+
 ## Requirements
 This was run with _Python 3.8.2_  
 To install the required dependencies (with the proper, conflict free versions), run: `python3 -m pip install -r requirements.txt`
